@@ -7,7 +7,7 @@ int main()
     float nombre1, nombre2, resultat;
     char operateur, question = 'o';
 
-    // La boucle
+    // La boucle //
     do
     {
 
